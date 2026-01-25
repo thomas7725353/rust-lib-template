@@ -7,7 +7,7 @@ description of the crate
 ## How to use it
 
 ```bash
-$ cargo generate --git https://github.com/tyrchen/rust-lib-template
+$ cargo generate --git https://github.com/thomas7725353/rust-lib-template
 ```
 
 Have fun with this crate!
