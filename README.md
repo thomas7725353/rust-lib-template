@@ -12,10 +12,4 @@ $ cargo generate --git https://github.com/thomas7725353/rust-lib-template
 
 Have fun with this crate!
 
-## License
 
-This project is distributed under the terms of MIT.
-
-See [LICENSE](LICENSE.md) for details.
-
-Copyright 2025 Tyr Chen
